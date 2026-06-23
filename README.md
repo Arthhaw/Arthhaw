@@ -2,7 +2,6 @@
 
 I'm Michael
 
-Currently developing an intelligent traffic light system using computer vision.
 
 ## Focus
 
