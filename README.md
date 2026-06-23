@@ -11,8 +11,6 @@ I'm Michael
 
 ## Projects
 
-* 🚦 Traffic Light System (in progress)
-  Vehicle detection + traffic optimization
 
 * 🎮 Minesweeper (C++)
   OOP-based console game
